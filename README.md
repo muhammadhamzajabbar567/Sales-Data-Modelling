@@ -23,7 +23,7 @@ This repository contains a **Sales and Budget Data Model** for business intellig
 ![Budget Fact Table](https://raw.githubusercontent.com/muhammadhamzajabbar567/Sales-Data-Modelling/main/FACTBUDGET%20(FACT%20TABLE).png)
 
 ### **Sales Data Modelling**
-![Data Model](https://raw.githubusercontent.com/muhammadhamzajabbar567/Sales-Data-Modelling/main/SALES%20DATA%20MODELLING.png)
+![Sales Data Modelling](https://raw.githubusercontent.com/muhammadhamzajabbar567/Sales-Data-Modelling/main/SALES%20DATA%20MODEELLING.png)
 
 ## 🚀 Key Features
 ✅ **Centralized Fact Tables** – Ensures efficient querying and data aggregation.  
