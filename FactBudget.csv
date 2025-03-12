@@ -1,0 +1,325 @@
+Category,Segment,Scenario,Date,Value
+Urban,Convenience,Forecast,1-Dec-2016,120710.4406
+Urban,Convenience,Forecast,1-Nov-2016,129923.2814
+Urban,Convenience,Forecast,1-Oct-2016,169468.7696
+Urban,Convenience,Forecast,1-Sep-2016,219703.7363
+Urban,Convenience,Forecast,1-Aug-2016,333460.8569
+Urban,Convenience,Forecast,1-Jul-2016,345230.9632
+Urban,Convenience,Forecast,1-Jun-2016,262211.9656
+Urban,Convenience,Forecast,1-May-2016,276318.0256
+Urban,Convenience,Forecast,1-Apr-2016,351049.3899
+Urban,Convenience,Forecast,1-Mar-2016,343660.2303
+Urban,Convenience,Forecast,1-Feb-2016,148965.7223
+Urban,Convenience,Forecast,1-Jan-2016,121859.4459
+Urban,Convenience,Budget,1-Dec-2016,125587.6301
+Urban,Convenience,Budget,1-Nov-2016,127350.5431
+Urban,Convenience,Budget,1-Oct-2016,161079.2266
+Urban,Convenience,Budget,1-Sep-2016,221968.7233
+Urban,Convenience,Budget,1-Aug-2016,343268.5292
+Urban,Convenience,Budget,1-Jul-2016,327806.3502
+Urban,Convenience,Budget,1-Jun-2016,261009.5613
+Urban,Convenience,Budget,1-May-2016,263033.5052
+Urban,Convenience,Budget,1-Apr-2016,330989.4247
+Urban,Convenience,Budget,1-Mar-2016,316968.1736
+Urban,Convenience,Budget,1-Feb-2016,152101.8428
+Urban,Convenience,Budget,1-Jan-2016,124372.0118
+Urban,Convenience,Budget,1-Dec-2015,117052.5485
+Urban,Convenience,Budget,1-Nov-2015,135068.7579
+Urban,Convenience,Budget,1-Oct-2015,161079.2266
+Urban,Convenience,Budget,1-Sep-2015,235558.6451
+Urban,Convenience,Budget,1-Aug-2015,343268.5292
+Urban,Convenience,Budget,1-Jul-2015,348508.4103
+Urban,Convenience,Budget,1-Jun-2015,257019.6494
+Urban,Convenience,Budget,1-May-2015,255062.7929
+Urban,Convenience,Budget,1-Apr-2015,327646.0972
+Urban,Convenience,Budget,1-Mar-2015,346996.7374
+Urban,Convenience,Budget,1-Feb-2015,157979.4357
+Urban,Convenience,Budget,1-Jan-2015,129397.1436
+Urban,Extreme,Forecast,1-Dec-2016,20868.84072
+Urban,Extreme,Forecast,1-Nov-2016,46971.33037
+Urban,Extreme,Forecast,1-Oct-2016,70793.02886
+Urban,Extreme,Forecast,1-Sep-2016,11957.87523
+Urban,Extreme,Forecast,1-Aug-2016,10668.924
+Urban,Extreme,Forecast,1-Jul-2016,14286.02201
+Urban,Extreme,Forecast,1-Jun-2016,5340.80274
+Urban,Extreme,Forecast,1-May-2016,7842.956888
+Urban,Extreme,Forecast,1-Apr-2016,12343.00573
+Urban,Extreme,Forecast,1-Mar-2016,17582.20144
+Urban,Extreme,Forecast,1-Feb-2016,14749.0644
+Urban,Extreme,Forecast,1-Jan-2016,18247.11252
+Urban,Extreme,Budget,1-Dec-2016,20868.84072
+Urban,Extreme,Budget,1-Nov-2016,47574.88219
+Urban,Extreme,Budget,1-Oct-2016,73028.5982
+Urban,Extreme,Budget,1-Sep-2016,12323.93264
+Urban,Extreme,Budget,1-Aug-2016,10668.924
+Urban,Extreme,Budget,1-Jul-2016,14851.80506
+Urban,Extreme,Budget,1-Jun-2016,5392.156613
+Urban,Extreme,Budget,1-May-2016,7462.230825
+Urban,Extreme,Budget,1-Apr-2016,12709.62966
+Urban,Extreme,Budget,1-Mar-2016,17247.30236
+Urban,Extreme,Budget,1-Feb-2016,13603.506
+Urban,Extreme,Budget,1-Jan-2016,17018.94149
+Urban,Extreme,Budget,1-Dec-2015,19263.54528
+Urban,Extreme,Budget,1-Nov-2015,45547.95672
+Urban,Extreme,Budget,1-Oct-2015,78244.92664
+Urban,Extreme,Budget,1-Sep-2015,12281.52141
+Urban,Extreme,Budget,1-Aug-2015,11446.86638
+Urban,Extreme,Budget,1-Jul-2015,14710.3593
+Urban,Extreme,Budget,1-Jun-2015,5340.80274
+Urban,Extreme,Budget,1-May-2015,7842.956888
+Urban,Extreme,Budget,1-Apr-2015,11976.3818
+Urban,Extreme,Budget,1-Mar-2015,16075.1556
+Urban,Extreme,Budget,1-Feb-2015,14749.0644
+Urban,Extreme,Budget,1-Jan-2015,18422.56553
+Urban,Moderation,Forecast,1-Dec-2016,251155.7122
+Urban,Moderation,Forecast,1-Nov-2016,322984.2215
+Urban,Moderation,Forecast,1-Oct-2016,362385.6466
+Urban,Moderation,Forecast,1-Sep-2016,529188.1249
+Urban,Moderation,Forecast,1-Aug-2016,675144.698
+Urban,Moderation,Forecast,1-Jul-2016,642300.7198
+Urban,Moderation,Forecast,1-Jun-2016,651766.3129
+Urban,Moderation,Forecast,1-May-2016,644168.8923
+Urban,Moderation,Forecast,1-Apr-2016,714907.2475
+Urban,Moderation,Forecast,1-Mar-2016,713162.972
+Urban,Moderation,Forecast,1-Feb-2016,346228.3122
+Urban,Moderation,Forecast,1-Jan-2016,292661.6849
+Urban,Moderation,Budget,1-Dec-2016,243695.6416
+Urban,Moderation,Budget,1-Nov-2016,322984.2215
+Urban,Moderation,Budget,1-Oct-2016,351292.2084
+Urban,Moderation,Budget,1-Sep-2016,503746.3881
+Urban,Moderation,Budget,1-Aug-2016,682251.4843
+Urban,Moderation,Budget,1-Jul-2016,648597.7856
+Urban,Moderation,Budget,1-Jun-2016,664630.6724
+Urban,Moderation,Budget,1-May-2016,637527.9758
+Urban,Moderation,Budget,1-Apr-2016,767584.6236
+Urban,Moderation,Budget,1-Mar-2016,741407.0501
+Urban,Moderation,Budget,1-Feb-2016,342833.917
+Urban,Moderation,Budget,1-Jan-2016,301269.3815
+Urban,Moderation,Budget,1-Dec-2015,241208.9513
+Urban,Moderation,Budget,1-Nov-2015,310303.7463
+Urban,Moderation,Budget,1-Oct-2015,373242.5082
+Urban,Moderation,Budget,1-Sep-2015,534276.4723
+Urban,Moderation,Budget,1-Aug-2015,746212.561
+Urban,Moderation,Budget,1-Jul-2015,634640.5502
+Urban,Moderation,Budget,1-Jun-2015,645182.8148
+Urban,Moderation,Budget,1-May-2015,697296.2236
+Urban,Moderation,Budget,1-Apr-2015,790160.642
+Urban,Moderation,Budget,1-Mar-2015,713162.972
+Urban,Moderation,Budget,1-Feb-2015,356411.4978
+Urban,Moderation,Budget,1-Jan-2015,289792.4527
+Urban,Regular,Forecast,1-Dec-2016,689.7969225
+Urban,Regular,Forecast,1-Nov-2016,427.4372025
+Urban,Regular,Forecast,1-Oct-2016,2989.28376
+Urban,Regular,Forecast,1-Sep-2016,701.48442
+Urban,Regular,Forecast,1-Aug-2016,731.3103
+Urban,Regular,Forecast,1-Jul-2016,1381.096238
+Urban,Regular,Forecast,1-Jun-2016,151.17039
+Urban,Regular,Forecast,1-May-2016,682.89984
+Urban,Regular,Forecast,1-Apr-2016,1028.908721
+Urban,Regular,Forecast,1-Mar-2016,395.11395
+Urban,Regular,Forecast,1-Feb-2016,451.677761
+Urban,Regular,Forecast,1-Jan-2016,405.25947
+Urban,Regular,Budget,1-Dec-2016,676.1375775
+Urban,Regular,Budget,1-Nov-2016,427.4372025
+Urban,Regular,Budget,1-Oct-2016,3060.909967
+Urban,Regular,Budget,1-Sep-2016,701.48442
+Urban,Regular,Budget,1-Aug-2016,682.55628
+Urban,Regular,Budget,1-Jul-2016,1289.023155
+Urban,Regular,Budget,1-Jun-2016,148.08528
+Urban,Regular,Budget,1-May-2016,682.89984
+Urban,Regular,Budget,1-Apr-2016,1036.230458
+Urban,Regular,Budget,1-Mar-2016,407.0871
+Urban,Regular,Budget,1-Feb-2016,465.7926
+Urban,Regular,Budget,1-Jan-2016,402.0915735
+Urban,Regular,Budget,1-Dec-2015,676.1375775
+Urban,Regular,Budget,1-Nov-2015,440.389845
+Urban,Regular,Budget,1-Oct-2015,3031.192395
+Urban,Regular,Budget,1-Sep-2015,667.7592075
+Urban,Regular,Budget,1-Aug-2015,668.62656
+Urban,Regular,Budget,1-Jul-2015,1354.789643
+Urban,Regular,Budget,1-Jun-2015,148.08528
+Urban,Regular,Budget,1-May-2015,711.4347115
+Urban,Regular,Budget,1-Apr-2015,1056.749873
+Urban,Regular,Budget,1-Mar-2015,387.13185
+Urban,Regular,Budget,1-Feb-2015,429.9624
+Urban,Regular,Budget,1-Jan-2015,417.29688
+Mix,All Season,Forecast,1-Dec-2016,11442.14474
+Mix,All Season,Forecast,1-Nov-2016,14120.78693
+Mix,All Season,Forecast,1-Oct-2016,18109.64804
+Mix,All Season,Forecast,1-Sep-2016,26737.36704
+Mix,All Season,Forecast,1-Aug-2016,37439.93736
+Mix,All Season,Forecast,1-Jul-2016,45563.53694
+Mix,All Season,Forecast,1-Jun-2016,29301.60844
+Mix,All Season,Forecast,1-May-2016,21924.29736
+Mix,All Season,Forecast,1-Apr-2016,31585.12434
+Mix,All Season,Forecast,1-Mar-2016,29356.78568
+Mix,All Season,Forecast,1-Feb-2016,13223.37744
+Mix,All Season,Forecast,1-Jan-2016,11388.23805
+Mix,All Season,Budget,1-Dec-2016,11206.22423
+Mix,All Season,Budget,1-Nov-2016,14536.10419
+Mix,All Season,Budget,1-Oct-2016,17736.25324
+Mix,All Season,Budget,1-Sep-2016,26081.97554
+Mix,All Season,Budget,1-Aug-2016,40559.93214
+Mix,All Season,Budget,1-Jul-2016,46010.23828
+Mix,All Season,Budget,1-Jun-2016,30509.92219
+Mix,All Season,Budget,1-May-2016,21924.29736
+Mix,All Season,Budget,1-Apr-2016,33499.3743
+Mix,All Season,Budget,1-Mar-2016,29659.43295
+Mix,All Season,Budget,1-Feb-2016,12587.63814
+Mix,All Season,Budget,1-Jan-2016,12586.99995
+Mix,All Season,Budget,1-Dec-2015,11442.14474
+Mix,All Season,Budget,1-Nov-2015,14397.6651
+Mix,All Season,Budget,1-Oct-2015,19603.22726
+Mix,All Season,Budget,1-Sep-2015,25815.83293
+Mix,All Season,Budget,1-Aug-2015,39389.9341
+Mix,All Season,Budget,1-Jul-2015,43330.03022
+Mix,All Season,Budget,1-Jun-2015,28697.45156
+Mix,All Season,Budget,1-May-2015,22872.73862
+Mix,All Season,Budget,1-Apr-2015,30627.99936
+Mix,All Season,Budget,1-Mar-2015,31172.66933
+Mix,All Season,Budget,1-Feb-2015,13223.37744
+Mix,All Season,Budget,1-Jan-2015,12227.37138
+Mix,Productivity,Forecast,1-Dec-2016,19538.89812
+Mix,Productivity,Forecast,1-Nov-2016,17597.55926
+Mix,Productivity,Forecast,1-Oct-2016,22835.18396
+Mix,Productivity,Forecast,1-Sep-2016,25557.336
+Mix,Productivity,Forecast,1-Aug-2016,34963.40484
+Mix,Productivity,Forecast,1-Jul-2016,17727.72593
+Mix,Productivity,Forecast,1-Jun-2016,73468.33494
+Mix,Productivity,Forecast,1-May-2016,84037.90264
+Mix,Productivity,Forecast,1-Apr-2016,87986.91434
+Mix,Productivity,Forecast,1-Mar-2016,61263.51735
+Mix,Productivity,Forecast,1-Feb-2016,22939.77168
+Mix,Productivity,Forecast,1-Jan-2016,18791.90523
+Mix,Productivity,Budget,1-Dec-2016,19538.89812
+Mix,Productivity,Budget,1-Nov-2016,15921.60124
+Mix,Productivity,Budget,1-Oct-2016,21795.01947
+Mix,Productivity,Budget,1-Sep-2016,26356.00275
+Mix,Productivity,Budget,1-Aug-2016,31937.72558
+Mix,Productivity,Budget,1-Jul-2016,16377.04205
+Mix,Productivity,Budget,1-Jun-2016,67110.49826
+Mix,Productivity,Budget,1-May-2016,80836.45873
+Mix,Productivity,Budget,1-Apr-2016,85873.30164
+Mix,Productivity,Budget,1-Mar-2016,65777.67126
+Mix,Productivity,Budget,1-Feb-2016,22939.77168
+Mix,Productivity,Budget,1-Jan-2016,18448.3297
+Mix,Productivity,Budget,1-Dec-2015,18021.3138
+Mix,Productivity,Budget,1-Nov-2015,17094.77186
+Mix,Productivity,Budget,1-Oct-2015,21965.27219
+Mix,Productivity,Budget,1-Sep-2015,27687.114
+Mix,Productivity,Budget,1-Aug-2015,34963.40484
+Mix,Productivity,Budget,1-Jul-2015,16921.11577
+Mix,Productivity,Budget,1-Jun-2015,71173.3315
+Mix,Productivity,Budget,1-May-2015,80291.53822
+Mix,Productivity,Budget,1-Apr-2015,84997.04346
+Mix,Productivity,Budget,1-Mar-2015,65132.79213
+Mix,Productivity,Budget,1-Feb-2015,22700.81573
+Mix,Productivity,Budget,1-Jan-2015,19160.37396
+Accessory,Accessory,Forecast,1-Dec-2016,44190.57888
+Accessory,Accessory,Forecast,1-Nov-2016,50598.81566
+Accessory,Accessory,Forecast,1-Oct-2016,54740.5709
+Accessory,Accessory,Forecast,1-Sep-2016,64442.9079
+Accessory,Accessory,Forecast,1-Aug-2016,98285.91328
+Accessory,Accessory,Forecast,1-Jul-2016,61545.41064
+Accessory,Accessory,Forecast,1-Jun-2016,91299.65402
+Accessory,Accessory,Forecast,1-May-2016,120579.7261
+Accessory,Accessory,Forecast,1-Apr-2016,103436.9095
+Accessory,Accessory,Forecast,1-Mar-2016,93558.89718
+Accessory,Accessory,Forecast,1-Feb-2016,58793.20125
+Accessory,Accessory,Forecast,1-Jan-2016,51771.46338
+Accessory,Accessory,Budget,1-Dec-2016,44650.89741
+Accessory,Accessory,Budget,1-Nov-2016,47651.31184
+Accessory,Accessory,Budget,1-Oct-2016,57562.24982
+Accessory,Accessory,Budget,1-Sep-2016,61940.2707
+Accessory,Accessory,Budget,1-Aug-2016,94148.85816
+Accessory,Accessory,Budget,1-Jul-2016,63468.70472
+Accessory,Accessory,Budget,1-Jun-2016,94988.52893
+Accessory,Accessory,Budget,1-May-2016,124810.8389
+Accessory,Accessory,Budget,1-Apr-2016,98415.70032
+Accessory,Accessory,Budget,1-Mar-2016,95393.38536
+Accessory,Accessory,Budget,1-Feb-2016,61792.85438
+Accessory,Accessory,Budget,1-Jan-2016,52269.26591
+Accessory,Accessory,Budget,1-Dec-2015,47412.80859
+Accessory,Accessory,Budget,1-Nov-2015,48633.81311
+Accessory,Accessory,Budget,1-Oct-2015,56950.6131
+Accessory,Accessory,Budget,1-Sep-2015,63817.2486
+Accessory,Accessory,Budget,1-Aug-2015,96110.29271
+Accessory,Accessory,Budget,1-Jul-2015,60904.31261
+Accessory,Accessory,Budget,1-Jun-2015,95910.74766
+Accessory,Accessory,Budget,1-May-2015,124717.6981
+Accessory,Accessory,Budget,1-Apr-2015,95402.9748
+Accessory,Accessory,Budget,1-Mar-2015,94476.14127
+Accessory,Accessory,Budget,1-Feb-2015,56993.40938
+Accessory,Accessory,Budget,1-Jan-2015,52269.26591
+Rural,Select,Forecast,1-Dec-2016,311.708775
+Rural,Select,Forecast,1-Nov-2016,172.2601125
+Rural,Select,Forecast,1-Oct-2016,662.79129
+Rural,Select,Forecast,1-Sep-2016,314.98992
+Rural,Select,Forecast,1-Aug-2016,311.708775
+Rural,Select,Forecast,1-Jul-2016,334.67679
+Rural,Select,Forecast,1-Jun-2016,167.338395
+Rural,Select,Forecast,1-May-2016,506.9369025
+Rural,Select,Forecast,1-Apr-2016,167.338395
+Rural,Select,Forecast,1-Mar-2016,497.0934675
+Rural,Select,Forecast,1-Feb-2016,155.8543875
+Rural,Select,Forecast,1-Jan-2016,337.957935
+Rural,Select,Budget,1-Dec-2016,324.833355
+Rural,Select,Budget,1-Nov-2016,172.2601125
+Rural,Select,Budget,1-Oct-2016,623.41755
+Rural,Select,Budget,1-Sep-2016,324.833355
+Rural,Select,Budget,1-Aug-2016,314.98992
+Rural,Select,Budget,1-Jul-2016,318.271065
+Rural,Select,Budget,1-Jun-2016,157.49496
+Rural,Select,Budget,1-May-2016,477.4065975
+Rural,Select,Budget,1-Apr-2016,162.4166775
+Rural,Select,Budget,1-Mar-2016,477.4065975
+Rural,Select,Budget,1-Feb-2016,155.8543875
+Rural,Select,Budget,1-Jan-2016,318.271065
+Rural,Select,Budget,1-Dec-2015,318.271065
+Rural,Select,Budget,1-Nov-2015,172.2601125
+Rural,Select,Budget,1-Oct-2015,643.10442
+Rural,Select,Budget,1-Sep-2015,344.520225
+Rural,Select,Budget,1-Aug-2015,318.271065
+Rural,Select,Budget,1-Jul-2015,311.708775
+Rural,Select,Budget,1-Jun-2015,167.338395
+Rural,Select,Budget,1-May-2015,516.7803375
+Rural,Select,Budget,1-Apr-2015,157.49496
+Rural,Select,Budget,1-Mar-2015,467.5631625
+Rural,Select,Budget,1-Feb-2015,168.9789675
+Rural,Select,Budget,1-Jan-2015,334.67679
+Youth,Youth,Forecast,1-Dec-2016,3931.03074
+Youth,Youth,Forecast,1-Nov-2016,2891.005425
+Youth,Youth,Forecast,1-Oct-2016,5397.748965
+Youth,Youth,Forecast,1-Sep-2016,6437.887575
+Youth,Youth,Forecast,1-Aug-2016,10355.73462
+Youth,Youth,Forecast,1-Jul-2016,11738.08624
+Youth,Youth,Forecast,1-Jun-2016,12144.36878
+Youth,Youth,Forecast,1-May-2016,8061.734728
+Youth,Youth,Forecast,1-Apr-2016,9978.605963
+Youth,Youth,Forecast,1-Mar-2016,9130.579973
+Youth,Youth,Forecast,1-Feb-2016,4669.62426
+Youth,Youth,Forecast,1-Jan-2016,2757.295065
+Youth,Youth,Budget,1-Dec-2016,3796.895518
+Youth,Youth,Budget,1-Nov-2016,3066.217875
+Youth,Youth,Budget,1-Oct-2016,5503.58718
+Youth,Youth,Budget,1-Sep-2016,6836.107425
+Youth,Youth,Budget,1-Aug-2016,9746.57376
+Youth,Youth,Budget,1-Jul-2016,12479.43905
+Youth,Youth,Budget,1-Jun-2016,12505.0926
+Youth,Youth,Budget,1-May-2016,8170.086015
+Youth,Youth,Budget,1-Apr-2016,11028.98554
+Youth,Youth,Budget,1-Mar-2016,9219.22638
+Youth,Youth,Budget,1-Feb-2016,4532.28237
+Youth,Youth,Budget,1-Jan-2016,2685.42206
+Youth,Youth,Budget,1-Dec-2015,3628.64376
+Youth,Youth,Budget,1-Nov-2015,3066.217875
+Youth,Youth,Budget,1-Oct-2015,5311.124644
+Youth,Youth,Budget,1-Sep-2015,6437.887575
+Youth,Youth,Budget,1-Aug-2015,9645.04695
+Youth,Youth,Budget,1-Jul-2015,12403.99951
+Youth,Youth,Budget,1-Jun-2015,11903.88623
+Youth,Youth,Budget,1-May-2015,7929.789368
+Youth,Youth,Budget,1-Apr-2015,10608.83371
+Youth,Youth,Budget,1-Mar-2015,9307.872788
+Youth,Youth,Budget,1-Feb-2015,4394.94048
+Youth,Youth,Budget,1-Jan-2015,2569.90608
