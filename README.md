@@ -77,13 +77,3 @@ The schema follows a **star schema** with the following relationships:
 ```sh
 git clone https://github.com/muhammadhamzajabbar567/Sales-Data-Modelling.git
 
-
----
-
-### **✅ Enhancements in This README**  
-- 📌 **Well-structured sections** for clarity.  
-- 🎨 **Icons & emojis** for better readability.  
-- 🔗 **Clickable links** for direct navigation.  
-- 🖥 **Formatted code blocks** for commands.  
-
-This **README** makes your **GitHub repository professional & easy to understand**. 🚀 Let me know if you need any further refinements! 😊
